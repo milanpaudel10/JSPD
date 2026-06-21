@@ -1,0 +1,24 @@
+CODESPRINT 70 -- REACT TRACK
+============================
+
+Days 22-42 (3 weeks) | Fri, Aug 7, 2026 - Mon, Sep 28, 2026
+
+React turns your JavaScript into real, interactive UI. This track covers
+components, state, hooks, routing, and global state -- the patterns behind
+almost every modern frontend, including the one this platform is built with.
+
+WEEKLY PROJECTS
+---------------
+Week 4 (Days 22-28) - React Fundamentals
+  -> Personal Portfolio Site
+  A multi-section single-page portfolio built from reusable React components.
+
+Week 5 (Days 29-35) - React Intermediate
+  -> Recipe Finder App
+  A multi-page app that searches a recipe API and shows results with React Router.
+
+Week 6 (Days 36-42) - React Advanced
+  -> Expense Tracker
+  A budgeting app using Context for global state, with authentication-ready routing.
+
+NEXT TRACK: Python (starts Day 43)

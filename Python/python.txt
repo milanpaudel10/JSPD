@@ -1,0 +1,20 @@
+CODESPRINT 70 -- PYTHON TRACK
+=============================
+
+Days 43-56 (2 weeks) | Thu, Oct 1, 2026 - Sun, Oct 25, 2026
+
+Python introduces a second language and a different way of thinking: clean
+syntax, object-oriented design, file handling, and working with external
+APIs. It's also the language Django -- the next track -- is built on.
+
+WEEKLY PROJECTS
+---------------
+Week 7 (Days 43-49) - Python Foundations
+  -> Command-Line Quiz Game
+  A terminal quiz game with scoring, multiple categories, and replayability.
+
+Week 8 (Days 50-56) - Python Intermediate
+  -> Library Management CLI
+  A class-based command-line system for tracking books, members and loans.
+
+NEXT TRACK: Django (starts Day 57)

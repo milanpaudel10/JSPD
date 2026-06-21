@@ -1,0 +1,25 @@
+CODESPRINT 70 -- JAVASCRIPT TRACK
+=================================
+
+Days 1-21 (3 weeks) | Mon, Jun 22, 2026 - Thu, Aug 6, 2026
+
+JavaScript is where the challenge starts: core syntax, the DOM, and modern
+async patterns. By the end of this track you can write functions, manipulate
+the browser, and call real APIs with fetch/async-await -- the foundation
+everything else in CodeSprint 70 builds on.
+
+WEEKLY PROJECTS
+---------------
+Week 1 (Days 1-7) - JavaScript Foundations
+  -> Utility Belt Script Pack
+  A small collection of standalone JS scripts (temperature converter, tip calculator, palindrome checker) that exercise every Week 1 concept.
+
+Week 2 (Days 8-14) - JavaScript & the DOM
+  -> Interactive To-Do List
+  A browser-based to-do list with add/edit/delete/complete, input validation, and tasks persisted in localStorage.
+
+Week 3 (Days 15-21) - Modern JavaScript & Async
+  -> Weather Dashboard
+  A weather lookup app that calls a public weather API with fetch/async-await and renders live data for any city the user searches.
+
+NEXT TRACK: React (starts Day 22)

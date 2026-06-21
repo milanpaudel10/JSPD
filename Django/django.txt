@@ -1,0 +1,20 @@
+CODESPRINT 70 -- DJANGO TRACK
+=============================
+
+Days 57-70 (2 weeks) | Mon, Oct 26, 2026 - Sun, Nov 22, 2026
+
+Django closes the loop: a production-grade backend in Python, exposed as a
+REST API with JWT auth, connected to the React frontend you already built,
+and deployed for real. The track ends with your own capstone project.
+
+WEEKLY PROJECTS
+---------------
+Week 9 (Days 57-63) - Django Foundations
+  -> Blog REST API
+  A Django + DRF API for blog posts and comments with full CRUD endpoints.
+
+Week 10 (Days 64-70) - Django Advanced & Capstone
+  -> CodeSprint 70 Capstone
+  A full-stack capstone connecting a React frontend to a deployed Django + DRF API.
+
+This is the final track. Day 70 wraps the challenge with your capstone.
