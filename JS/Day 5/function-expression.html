@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Function Declaration vs Function Expression</title>
+</head>
+<body>
+
+    <h2>Function Declaration and Function Expression</h2>
+
+    <button onclick="showDeclaration()">Addition (Function Declaration)</button>
+    <button onclick="showExpression()">Multiplication (Function Expression)</button>
+
+    <p id="output"></p>
+
+    <script>
+        // Function Declaration
+        function add(a, b) {
+            return a + b;
+        }
+
+        function showDeclaration() {
+            let result = add(15, 10);
+            document.getElementById("output").innerHTML =
+                "Function Declaration:<br>15 + 10 = " + result;
+        }
+
+        // Function Expression
+        const multiply = function(a, b) {
+            return a * b;
+        };
+
+        function showExpression() {
+            let result = multiply(15, 10);
+            document.getElementById("output").innerHTML =
+                "Function Expression:<br>15 × 10 = " + result;
+        }
+    </script>
+
+</body>
+</html>
