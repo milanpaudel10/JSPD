@@ -1,0 +1,6 @@
+ 
+
+ Every six days, I will build a new project based on what I learned during the previous six days. 
+ This will help me apply my knowledge in a practical way, strengthen my understanding of the concepts, 
+ and identify areas where I need more practice. By consistently creating projects, 
+ I will improve my problem-solving skills, gain hands-on experience, and steadily grow as a developer.
