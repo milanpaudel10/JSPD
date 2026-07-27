@@ -1,0 +1,26 @@
+Start
+   │
+   ▼
+fetch()
+   │
+   ▼
+Receive Response
+   │
+   ▼
+Check response.ok
+   │
+ ┌─┴─────────────┐
+ │               │
+Yes             No
+ │               │
+ ▼               ▼
+response.json()  throw Error
+ │               │
+ ▼               ▼
+Get Users      catch()
+ │
+ ▼
+map() / forEach()
+ │
+ ▼
+Display Data
